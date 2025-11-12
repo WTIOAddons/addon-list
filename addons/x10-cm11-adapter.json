@@ -198,6 +198,54 @@
         "min": "0.10.0",
         "max": "*"
       }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "115"
+        ]
+      },
+      "version": "0.6.6",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.6.6/x10-cm11-adapter-0.6.6-linux-arm-v20.tgz",
+      "checksum": "3d5cdc5a26bfcb109ee122d5bba45a7e3985e2e992a7f45fcca0cf055f6e8099",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "115"
+        ]
+      },
+      "version": "0.6.6",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.6.6/x10-cm11-adapter-0.6.6-linux-arm64-v20.tgz",
+      "checksum": "c605ba2df3a2009e9d49d982e6f9e6920af56eec3ac56be5e970db3d470727bb",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "115"
+        ]
+      },
+      "version": "0.6.6",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.6.6/x10-cm11-adapter-0.6.6-linux-x64-v20.tgz",
+      "checksum": "9edadcff31941d65973f6eb1a69a87cf5992f8e7495cf2f88fc82881fb249996",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
     }
   ]
 }
